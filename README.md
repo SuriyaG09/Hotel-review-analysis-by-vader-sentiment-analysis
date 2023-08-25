@@ -1,0 +1,2 @@
+# Hotel-review-analysis-by-vader-sentiment-analysis
+This repository contains a project focused on sentiment analysis of hotel reviews using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. The dataset used in this project includes various attributes related to hotel reviews, such as hotel details, reviewer information, review content, sentiment scores, and more.
